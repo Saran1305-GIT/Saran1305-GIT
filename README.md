@@ -1,16 +1,59 @@
-## Hi there 👋
+  <h1 align="center">Hi 👋, I'm Sarvanan S</h1>
+<h3 align="center">Frontend Developer | Python & Django Specialist</h3>
 
-<!--
-**Saran1305-GIT/Saran1305-GIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Frontend developer with hands-on experience in React, JavaScript, HTML, and CSS.              
+- 🌱 Expert in creating responsive, user-friendly interfaces using Bootstrap.
+- 🧩 Combines strong UI skills with Python knowledge for full-cycle development 
+- 📫 Focused on performance, scalability, and clean code.
+  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=django" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+## 📬 Contact Me
+
+<p align="left">
+ 
+ <!-- Instagram -->
+  <!-- <a href="https://www.instagram.com/sanjay_spark__?igsh=MWN4YzJtY2JmczdkOQ==" target="blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" style="margin-right: 20px;" />
+  </a>-->
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/saravanan-s-dev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"> 
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin-right: 20px;" />
+  </a>
+
+  <!-- Phone -->
+   <a href="tel:+917904440475">
+    <img src="https://img.icons8.com/ios-filled/50/000000/phone.png" height="40" style="margin-right: 20px;" />
+  </a>
+
+</p>
